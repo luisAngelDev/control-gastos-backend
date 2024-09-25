@@ -7,7 +7,7 @@ import javax.validation.constraints.NotNull;
 import com.ramos.model.Categoria;
 import com.ramos.model.Metodopago;
 
-public class EgresoDTO {
+public class EgresoDTO { //plantillas para enviar y recibir datos
 	
 	private Integer idEgreso;
 	
